@@ -2,7 +2,7 @@
 # Iterate over list
 obj = [2, 3, 5, 7, 9]
 for i in obj:
-    print(i)
+    print(i*2)
 
 # Sum of first 5 natural numbers 1+2+3+4+5 = 15
 # Iterate over range

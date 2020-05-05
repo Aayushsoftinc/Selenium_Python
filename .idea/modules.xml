@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Burnco-ecommerce.iml" filepath="$PROJECT_DIR$/.idea/Burnco-ecommerce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Locust_Performance/.idea/Locust_Performance.iml" filepath="$PROJECT_DIR$/../Locust_Performance/.idea/Locust_Performance.iml" />
     </modules>
   </component>
 </project>

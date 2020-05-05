@@ -12,3 +12,18 @@ else:
     max = y
 print('Maximum is: ',max)
 print('Thank, You!!!')
+
+print("*******************************************************************************************")
+
+a = int(input("Enter First Number: "))
+b = int(input("Enter Second Number: "))
+
+max = 0
+if a > b:
+    print('You are in the If Block')
+    max = a
+else:
+    print('You are in the else block')
+    max = b
+print('Maximum is: ',max)
+print('Thank, You!!!')
